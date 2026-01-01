@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel Campos</h1>
 
 <p align="center">
-  <em>I’m currently a 6th-semester Informatics Engineering student at Universidad de Guadalajara, with hands-on experience in web and software development. I'm actively looking for freelance or entry-level opportunities to apply and grow my skills.</em>
+  <em>I’m currently a 7th-semester Informatics Engineering student at Universidad de Guadalajara, with hands-on experience in web and software development. I'm actively looking for freelance or entry-level opportunities to apply and grow my skills.</em>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Angel8118&label=Profile%20views&color=0e75b6&style=flat" alt="Angel8118" /> </p>
